@@ -14,16 +14,15 @@ Data for this project include Pymaceuticals Inc's most recent animal study. In t
 
 This task was done by:
 
-* Creating a scatter plot that shows how the tumor volume changes over time for each treatment as seen on fig1.png
-* Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment. fig2.png
-* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate) fig3.png
-* Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days. fig4.png
+* Creating a scatter plot that shows how the tumor volume changes over time for each treatment as seen on            /Matplotlib-Homework_AOB/Pymaceuticals/fig1.png
+* Creating a scatter plot that shows how the number of metastatic(https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment as seen in /Matplotlib-Homework_AOB/Pymaceuticals/fig2.png
+* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)  /Matplotlib-Homework_AOB/Pymaceuticals/fig3.png
+* Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days. /Matplotlib-Homework_AOB/Pymaceuticals/fig4.png
 
 The following dependencies were considered:
 
 * Pandas Library and the Jupyter Notebook.
 * Matplotlib library.
-
 
 
 ## Copyright
