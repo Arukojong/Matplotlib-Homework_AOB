@@ -14,7 +14,8 @@ Data for this project include Pymaceuticals Inc's most recent animal study. In t
 
 This task was done by:
 
-* Creating a scatter plot that shows how the tumor volume changes over time for each treatment as seen on 
+* Creating a scatter plot that shows how the tumor volume changes over time for each treatment as seen on
+
 
 ![Laboratory](images/fig1.png)
 
