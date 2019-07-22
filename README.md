@@ -17,6 +17,7 @@ This task was done by:
 * Creating a scatter plot that shows how the tumor volume changes over time for each treatment as seen on 
 
 ![Laboratory] (Images/fig1.png)
+
 * Creating a scatter plot that shows how the number of metastatic(https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment as seen in 
 
 ![Laboratory](Images/fig2.png)
@@ -35,4 +36,4 @@ The following dependencies were considered:
 
 ## Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
+Data Boot Camp © 2019. All Rights Reserved.
